@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=C++,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Kavya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagpt123&show_icons=true&theme=dark)
 
