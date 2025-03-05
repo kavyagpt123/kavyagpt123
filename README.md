@@ -1,16 +1,32 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Kavya Gupta </h1>
 
-<!--
-**kavyagpt123/kavyagpt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a passionated Frontend Developer
+- 🌱 I’m currently learning Full Stack Python
+- 💬 Ask me anything about HTML CSS JavaScript and Python
+- 📫 How to reach me: kavyagpt43@gmail.com
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/kavyagpt123">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://dev.to/kavya_gupta_2851e250e741c">
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/kavya-gupta-6050241b2/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+  </a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![Kavya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagpt123&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [kavya gupta](https://github.com/kavyagpt123)
