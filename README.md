@@ -2,6 +2,7 @@
 
 - 🔭 I’m a passionated Frontend Developer
 - 🌱 I’m currently learning Full Stack Python
+-     Angular | Python | Django
 - 💬 Ask me anything about HTML CSS JavaScript and Python
 - 📫 How to reach me: kavyagpt43@gmail.com
 - ⚡ Fun fact: I'm comming to teen
@@ -17,11 +18,18 @@
    <a href="https://www.linkedin.com/in/kavya-gupta-6050241b2/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
-
+  
+  <a href="https://skillicons.dev">
+   <a href="https://leetcode.com/u/kavyagpt/">
+    <img src="https://skillicons.dev/icons?i=leetcode"/>
+  </a>
+  </a>
 </div>
 
+
+
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=C++,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,mongodb,netlify,pycharm,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Kavya Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyagpt123&show_icons=true&theme=dark)
 
