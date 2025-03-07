@@ -4,7 +4,6 @@
 
 - 🔭 I’m a passionated Frontend Developer
 - 🌱 I’m currently learning Full Stack Python
--     Angular | Python | Django
 - 💬 Ask me anything about HTML CSS JavaScript and Python
 - 📫 How to reach me: kavyagpt43@gmail.com
 - ⚡ Fun fact: I'm comming to teen
