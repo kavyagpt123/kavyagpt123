@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Python
 - 💬 Ask me anything about HTML CSS JavaScript and Python
 - 📫 How to reach me: kavyagpt43@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I'm coming to teen
   
 ### Connect with me:
 <div id="badges">
