@@ -1,8 +1,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 <br><br>
- <h1 align="center">Hi 👋, I'm Kavya Gupta </h1>
-
-- 🔭 I’m a passionated Frontend Developer
+ <h1 align="center">Hi 👋, I'm Kavya Gupta a passionate Frontend & Python Developer </h1>
+ 
+- 🔭 Hi there! I'm a passionate Frontend & Python Developer with a knack for building scalable, efficient, and user-friendly applications.  
+- 🔥 Skills & Tech Stack:
+-  Frontend: React.js, JavaScript (ES6+), HTML, CSS, Tailwind, Bootstrap
+-  Backend: Python,Django, FastAPI
+-  Database: MySQL, PostgreSQL, MongoDB, Oracle
+-  Tools & Version Control: Git, GitHub
 - 🌱 I’m currently learning Full Stack Python
 - 💬 Ask me anything about HTML CSS JavaScript and Python
 - 📫 How to reach me: kavyagpt43@gmail.com
