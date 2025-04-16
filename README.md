@@ -5,11 +5,11 @@
 - 🔭 Hi there! I'm a passionate Frontend & Python Developer with a knack for building scalable, efficient, and user-friendly applications.  
 - 🔥 Skills & Tech Stack:
 -  Frontend: React.js, JavaScript (ES6+), HTML, CSS, Tailwind, Bootstrap
--  Backend: Python,Django, FastAPI
+-  Backend: Python,Django, RestAPI
 -  Database: MySQL, PostgreSQL, MongoDB, Oracle
 -  Tools & Version Control: Git, GitHub
 - 🌱 I’m currently learning Full Stack Python
-- 💬 Ask me anything about HTML CSS JavaScript and Python
+- 💬 Ask me anything about HTML CSS JavaScript Python SQL and MongoDB
 - 📫 How to reach me: kavyagpt43@gmail.com
 - ⚡ Fun fact: I'm coming to teen
   
